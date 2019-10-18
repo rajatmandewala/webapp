@@ -8,4 +8,10 @@ public class HomeController extends MultiActionController
     public String demo(){
     return "df";
     }
+    
+    
+    public void dem(){
+    
+    String f="sdsd";
+    }
 }
